@@ -35,4 +35,27 @@
 //                .map { (it as Success).value }
 //        )
 //    }
+//
+////    fun batchDebit(accounts: List<ADTAccount>, amount: Int): Try<List<ADTAccount>> {
+////        return Try.createList(accounts) { account ->
+////            debit(account, amount)
+////        }
+////    }
+////
+////    fun batchCredit(accounts: List<ADTAccount>, amount: Int): Try<List<ADTAccount>> {
+////        return Try.createList(accounts) { account ->
+////            credit(account, amount)
+////        }
+////    }
+//}
+//
+//fun <T> Try.Companion.createList(list: List<T>, mapper: (T) -> Try<T>): Try<List<T>> {
+//    val tryList = list.map(mapper)
+//    return if(tryList.any { item -> item is Fail }) {
+//        tryList.filterIsInstance<Fail<T>>()
+//            .first()
+//            .let { Fail<List<T>>(it.error) }
+//    } else {
+//        Success(tryList.map { (it as Success).value })
+//    }
 //}

@@ -1,6 +1,10 @@
 package com.yanbin.fpworkshop.part2
 
-abstract class Try<T>
+abstract class Try<T>{
+    companion object {
+
+    }
+}
 
 class Success<T>(val value: T): Try<T>()
 
