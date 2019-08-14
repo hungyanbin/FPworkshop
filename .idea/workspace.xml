@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="562e23fd-5e34-4cf8-bfa2-217cff0b544d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/yanbin/fpworkshop/part3/Option.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/yanbin/fpworkshop/part4/OptionExample.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/yanbin/fpworkshop/part2/ADTAccount.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/yanbin/fpworkshop/part2/ADTAccount.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/yanbin/fpworkshop/part2/Account_final.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/yanbin/fpworkshop/part2/Account_final.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/yanbin/fpworkshop/part2/Try.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/yanbin/fpworkshop/part2/Try.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FPworkshop/META-INF/FPworkshop.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FPworkshop/META-INF/FPworkshop.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FPworkshop/com/yanbin/fpworkshop/part2/Fail.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FPworkshop/com/yanbin/fpworkshop/part2/Fail.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FPworkshop/com/yanbin/fpworkshop/part2/Success.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FPworkshop/com/yanbin/fpworkshop/part2/Success.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FPworkshop/com/yanbin/fpworkshop/part2/Try.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FPworkshop/com/yanbin/fpworkshop/part2/Try.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,19 +20,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/yanbin/fpworkshop/part2/Account.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" selection-start-line="11" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/yanbin/fpworkshop/part2/ImmutableAccount.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" selection-start-line="29" selection-end-line="29" />
+            <state relative-caret-position="105">
+              <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -37,8 +31,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/yanbin/fpworkshop/part2/ADTAccount.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="21" column="28" lean-forward="true" selection-end-line="41" />
+            <state relative-caret-position="195">
+              <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/kotlin/Primitives.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -55,17 +58,44 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/yanbin/fpworkshop/part2/Try.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" selection-start-line="3" selection-end-line="5" selection-end-column="5" />
+            <state relative-caret-position="135">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/yanbin/fpworkshop/part3/Option.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="46" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/yanbin/fpworkshop/part4/OptionExample.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/yanbin/fpworkshop/part2/Account_final.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/yanbin/fpworkshop/part2/Account_final.kt">
+        <entry file="file://$PROJECT_DIR$/FPworkshop.iml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="35" column="9" lean-forward="true" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
+            <state relative-caret-position="165">
+              <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -108,13 +138,18 @@
         <option value="$PROJECT_DIR$/src/com/yanbin/fpworkshop/abc.kt" />
         <option value="$PROJECT_DIR$/src/com/yanbin/fpworkshop/part2/SideEffectSample.kt" />
         <option value="$PROJECT_DIR$/src/com/yanbin/fpworkshop/part2/Currency.kt" />
+        <option value="$PROJECT_DIR$/src/com/yanbin/fpworkshop/part2/Account.kt" />
+        <option value="$PROJECT_DIR$/src/com/yanbin/fpworkshop/part2/ImmutableAccount.kt" />
+        <option value="$PROJECT_DIR$/src/com/yanbin/fpworkshop/part2/Account_final.kt" />
         <option value="$PROJECT_DIR$/src/com/yanbin/fpworkshop/part2/ADTAccount.kt" />
         <option value="$PROJECT_DIR$/src/com/yanbin/fpworkshop/part2/Try.kt" />
-        <option value="$PROJECT_DIR$/src/com/yanbin/fpworkshop/part2/Account_final.kt" />
+        <option value="$PROJECT_DIR$/src/com/yanbin/fpworkshop/part4/Option.kt" />
+        <option value="$PROJECT_DIR$/src/com/yanbin/fpworkshop/part3/Option.kt" />
+        <option value="$PROJECT_DIR$/src/com/yanbin/fpworkshop/part4/OptionExample.kt" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
@@ -149,21 +184,29 @@
               <item name="fpworkshop" type="462c0819:PsiDirectoryNode" />
               <item name="part2" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="FPworkshop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FPworkshop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="fpworkshop" type="462c0819:PsiDirectoryNode" />
+              <item name="part4" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562148592279" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565763395147" />
     <property name="full.screen.before.presentation.mode" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/yanbin/fpworkshop/part3" />
       <recent name="$PROJECT_DIR$/src/com/yanbin/fpworkshop/part2" />
     </key>
   </component>
@@ -179,7 +222,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.com.yanbin.fpworkshop.part2.ADTAccountKt">
+  <component name="RunManager" selected="Kotlin.com.yanbin.fpworkshop.part4.OptionExampleKt">
     <configuration name="ClassSampleKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="FPworkshop" />
       <option name="VM_PARAMETERS" />
@@ -188,19 +231,6 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="ClassSampleKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WhateverKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="FPworkshop" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="WhateverKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -245,13 +275,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="com.yanbin.fpworkshop.part4.OptionExampleKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="FPworkshop" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.yanbin.fpworkshop.part4.OptionExampleKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.com.yanbin.fpworkshop.part4.OptionExampleKt" />
         <item itemvalue="Kotlin.com.yanbin.fpworkshop.part2.ADTAccountKt" />
         <item itemvalue="Kotlin.com.yanbin.fpworkshop.part2.ImmutableAccountKt" />
         <item itemvalue="Kotlin.com.yanbin.fpworkshop.part2.AccountKt" />
         <item itemvalue="Kotlin.ClassSampleKt" />
-        <item itemvalue="Kotlin.WhateverKt" />
       </list>
     </recent_temporary>
   </component>
@@ -269,7 +312,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
@@ -277,15 +320,15 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.19027181" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.19241774" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" visible="true" weight="0.32891566" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.2851485" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="2" weight="0.32891566" />
+      <window_info anchor="bottom" id="Messages" order="2" weight="0.32771084" />
       <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" weight="0.46626505" />
+      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.34578314" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -305,15 +348,15 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" weight="0.18849841" />
+      <window_info content_ui="combo" id="Project" order="5" weight="0.19027181" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.2851485" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="2" weight="0.32962963" />
+      <window_info anchor="bottom" id="Messages" order="2" weight="0.3287037" />
       <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.46666667" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.34666666" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -341,17 +384,38 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ClassSample.kt" />
     <entry file="file://$PROJECT_DIR$/src/com/yanbin/fpworkshop/abc.kt" />
+    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/common/kotlin/collections/Collections.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="76" column="45" lean-forward="true" selection-start-line="76" selection-start-column="45" selection-end-line="76" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/common/kotlin/util/Standard.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="95" column="27" selection-start-line="95" selection-start-column="27" selection-end-line="95" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/yanbin/fpworkshop/part2/Account.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" selection-start-line="11" selection-end-line="12" />
+        <state relative-caret-position="60">
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/yanbin/fpworkshop/part2/ImmutableAccount.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        <state relative-caret-position="105">
+          <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/kotlin/Primitives.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -369,24 +433,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/yanbin/fpworkshop/part2/ADTAccount.kt">
+    <entry file="file://$PROJECT_DIR$/src/com/yanbin/fpworkshop/part2/Try.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="21" column="28" lean-forward="true" selection-end-line="41" />
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/yanbin/fpworkshop/part2/Try.kt">
+    <entry file="file://$PROJECT_DIR$/src/com/yanbin/fpworkshop/part2/ADTAccount.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="5" selection-end-column="5" />
+        <state relative-caret-position="195">
+          <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yanbin/fpworkshop/part3/Option.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="46" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yanbin/fpworkshop/part4/OptionExample.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/yanbin/fpworkshop/part2/Account_final.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="35" column="9" lean-forward="true" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
+        <state relative-caret-position="90">
+          <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FPworkshop.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
         </state>
       </provider>
     </entry>
